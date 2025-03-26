@@ -8,9 +8,17 @@ class Frame : public Gtk::Window {
 
 
 Frame::Frame() {
-  
+
+ //Objeto Button = B //
+ GtkButton* B =
+ GtkButton* B = 
+
+ 
    set_title("App");
    set_default_size(800, 600);
+
+ 
+ 
 
 };
 
